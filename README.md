@@ -16,5 +16,5 @@ To ensure data integrity and prevent unnecessary data loss, missing text values 
 * **Rating Breakdown:** Evaluated the proportion of content volume across maturity ratings.
 
 ## 📂 Project Structure
-* `clean_netflix_data.xlsx`: Contains the prepared dataset, pivot tables, and dashboard summary tab.
-* `Dashboard_Snapshot.png`: A visual preview of the Power BI dashboard.
+* `TorresRickin_netflix1.xlsx`: Contains the prepared dataset, pivot tables, and dashboard summary tab.
+* `TorresRickin_POWERBI_Netflix.png`: A visual preview of the Power BI dashboard.
